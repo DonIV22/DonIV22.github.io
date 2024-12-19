@@ -1,0 +1,14 @@
+---
+title: "Architected material with independently tunable mass, damping, and stiffness via multi-stability and kinematic amplification"
+collection: publications
+category: manuscripts
+permalink: /publication/Paper3_JASA_2023
+excerpt: ''
+date: 2023-02-22
+venue: 'Journal of the Acoustical Society of America'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://doi.org/10.1121/10.0017346'
+# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+
+**Abstract:** We report on a class of architected material lattices that exploit multi-stability and kinematic amplification to independently adjust the local effective mass, damping, and stiffness properties, thereby realizing congruent alterations to the acoustic dispersion response post-fabrication. The fundamental structural tuning element permits a broad range in the effective property space; moreover, its particular design carries the benefit of tuning without altering the original size/shape of the emerging structure. The relation between the tuning element geometry and the achieved variability in effective properties is explored. Bloch's theorem facilitates the dynamic analysis of representative one- and two-dimensional (1D/2D) systems, revealing, e.g., bandgap formation, migration, and closure and positive/negative metadamping in accordance with the tuning element configuration. To demonstrate a utility, we improvise a waveguide by appropriately patterning the tuning element configuration within a 2D system. We believe that the proposed strategy offers a new way to expand the range of performance and functionality of architected materials for elastodynamics.
