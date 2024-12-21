@@ -1,9 +1,20 @@
 ---
 title: "Transition Waves in Multi-stable Metamaterials with Space-time Modulated Potentials"
 collection: talks
+category: conferences
 type: "International Mechanical Engineering Congress and Exposition, ASME"
 permalink: /talks/T3_IMECE_2020
+excerpt: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Transition Waves in Multi-stable Metamaterials with Space-time Modulated Potentials", at ASME IMECE 2020.'
 venue: "Virtual Conference"
 date: 2020-11-16 #"November 16 - 19, 2020"
 # location: ""
+# citation: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Transition Waves in Multi-stable Metamaterials with Space-time Modulated Potentials", at ASME 2020 International Mechanical Engineering Congress and Exposition, Virtual, November 16 - 19, 2020.'
 ---
+
+**Abstract:** Solitons are a class of spatially localized, large-amplitude solutions to non-linear equations which describe a variety of physical processes. In the context of materials with multiple ground states, the propagation of topological solitons (e.g., transition waves) is associated with transformation phenomena (e.g., ferroic phase transitions) which impact material performance and underpin multi-functionality in applications. Recently, mechanical metamaterials characterized by multi-stable internal architectures have exhibited similar behavior, extending atomic-scale physics to the structural level. Critical to the realization of soliton-based applications is a command of the soliton dynamics; however, for metamaterials, strategies for soliton management are few and often involve permanent modifications to the internal architecture (e.g., prescribed defects) which “lock in” performance at fabrication, preventing on-demand control of the transformation kinetics, extent, and reversibility. A means of soliton control which is amenable to post-fabrication performance adjustments is desirable.
+
+At the small scale of solid-state physics, the environment in which a transition wave propagates is hardly ideal: external electric and magnetic fields, the effects of thermal noise, and structural impurities are each factors which affect the soliton dynamics. Besides their relevance as incidental affects, these factors are simultaneously of practical import as instruments of soliton control which also extend to the structural scale.
+
+In the present presentation, we introduce small, spatio-temporal variations to the elastic potential of a bi-stable mechanical metamaterial in order to drive transition waves with predictable velocity. Compared to current strategies for soliton management, this method has the advantage of being amenable to remote operation via stimuli-responsive elastic constituents and of permitting post-fabrication adjustments to the related transformation performance by eliminating the need for structural defects. Adopting the particle interpretation for slow-moving wave fronts, we theoretically predict and numerically verify the transition wave dynamics for various conditions. In particular, we examine the impact of traveling sinusoidal potential modulations on the soliton motion, revealing two propagation regimes: in one, the soliton is carried by the modulation with a commensurate velocity; in the other, the soliton is out-paced by the modulation and, thus, travels at reduced velocity. To illustrate the utility of our method, we demonstrate both the tractor and the repulsor beam effects in bi-stable systems away from equilibrium. In each case, the former, the wave front is compelled to move against the, otherwise, energy-minimizing potential. This method provides greater flexibility to the transformation performance of multi-stable metamaterials and supports the adoption of such systems in applications demanding multi-functionality.
+
+**Citation: V. Ramakrishnan** and M.J.Frazier, "Transition Waves in Multi-stable Metamaterials with Space-time Modulated Potentials", at ASME 2020 International Mechanical Engineering Congress and Exposition, Virtual, November 16 - 19, 2020.

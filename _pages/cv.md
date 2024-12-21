@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <b> Ph.D in Mechanical Engineering </b>, University of California San Diego, Sept 2018 - Aug 2023
+* <b> M.S. Mechanical Engineering </b>, University of California San Diego, Sept 2018 - Mar 2020
+* <b> B.Tech in Mechanical Engineering </b>, IIT Gandhinagar, July 2014 - July 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <b> Postdoctoral Researcher </b>
+  * University of Illinois Urbana-Champign
+  * Sept 2023 - <i> Present </i>
+  * <b> PI: </b> Prof. Kathryn H. Matlack
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b> Graduate Student Researcher </b>
+  * University of California San Diego
+  * Sept 2018 - Aug 2023
+  * <b> PI: </b> Prof. Michael J. Frazier
   
-Skills
+* <b> Graduate Teaching Assistant </b>
+  * University of California San Diego
+  * Jan 2020 - Jul 2023
+  * <b> Courses: </b> Dynamics and Vibrations (Winter 2022); Fundamentals of Solid Mechanics II (Spring 2020, 2021 and 2022, Winter 2023); Finite Element Methods (Winter 2020 and 2021); Solid Mechanics and Materials (Fall 2020 and 2021).
+  
+* <b> Undergraduate Teaching Assistant </b>
+  * IIT Gandhinagar
+  * Jan 2018 - May 2018
+  * <b> Courses: </b> Industrial Engineering & Operations Research (Spring 2018).
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======

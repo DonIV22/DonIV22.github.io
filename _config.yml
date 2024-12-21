@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Vinod Ramakrishnan / Academic Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Vinod R"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "DonIV22/DonIV22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Vinod_Image.jpg"
   name             : "Vinod Ramakrishnan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Urbana, IL, USA"
   employer         : "University of Illinois at Urbana-Champaign"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "vinod-r-307177b4"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

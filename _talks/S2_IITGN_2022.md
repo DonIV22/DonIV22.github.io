@@ -4,8 +4,11 @@ collection: talks
 category: seminars
 type: "Research Seminar"
 permalink: /talks/S2_IITGN_2022
-excerpt: ''
+excerpt: '<b> V. Ramakrishnan </b>, "Multistable Metamaterials to tune Linear and Non-linear wave propagation", at IITGN ME Research Seminar (Virtual).'
 venue: "Virtual"
 date: 2022-09-22
 location: "Gandhinagar, Gujarat, India"
+# citation: '<b> V. Ramakrishnan </b>, "Multistable Metamaterials to tune Linear and Non-linear wave propagation", at ME Research Seminar (Virtual), IIT Gandhinagar, September 22, 2022.'
 ---
+
+**Citation: V. Ramakrishnan**, "Multistable Metamaterials to tune Linear and Non-linear wave propagation", at ME Research Seminar (Virtual), IIT Gandhinagar, September 22, 2022.
