@@ -27,7 +27,7 @@ Work experience
   * Sept 2018 - Aug 2023
   * <b> PI: </b> Prof. Michael J. Frazier
   
-* <b> Graduate Teaching Assistant </b>
+<!-- * <b> Graduate Teaching Assistant </b>
   * University of California San Diego
   * Jan 2020 - Jul 2023
   * <b> Courses: </b> Dynamics and Vibrations (Winter 2022); Fundamentals of Solid Mechanics II (Spring 2020, 2021 and 2022, Winter 2023); Finite Element Methods (Winter 2020 and 2021); Solid Mechanics and Materials (Fall 2020 and 2021).
@@ -35,7 +35,7 @@ Work experience
 * <b> Undergraduate Teaching Assistant </b>
   * IIT Gandhinagar
   * Jan 2018 - May 2018
-  * <b> Courses: </b> Industrial Engineering & Operations Research (Spring 2018).
+  * <b> Courses: </b> Industrial Engineering & Operations Research (Spring 2018). -->
 
 <!-- Skills
 ======
