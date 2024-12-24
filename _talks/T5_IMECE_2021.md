@@ -7,7 +7,7 @@ permalink: /talks/T5_IMECE_2021
 excerpt: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Vibration Induced Spatial Ordering of Periodic Patterns in Multistable Metamaterials", at ASME IMECE 2021.'
 venue: "Virtual Conference"
 date: 2021-11-01 #"November 1 - 4, 2021"
-# location: ""
+location: "US"
 # citation: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Vibration Induced Spatial Ordering of Periodic Patterns in Multistable Metamaterials", at ASME IMECE 2021, Virtual, November 1 - 4, 2021.'
 ---
 

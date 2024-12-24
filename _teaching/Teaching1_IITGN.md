@@ -8,4 +8,4 @@ date: 2016-01-01
 location: "Gandinagar, Gujarat, India"
 ---
 
-Delivered a lecture on how to create articles, reports and research papers in LaTeX, to the student community at IITGN. This lecture was a part of a workshop coducted by Team LaTeX, a group of undergraduate enthusiasts collaborating to self-learn and explore the LaTeX software.
+Delivered a lecture on how to create articles, reports and research papers in LaTeX, to the student community at IITGN. This lecture was a part of a workshop conducted by Team LaTeX, a group of undergraduate enthusiasts collaborating to self-learn and explore the LaTeX software.

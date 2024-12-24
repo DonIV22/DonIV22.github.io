@@ -7,7 +7,7 @@ permalink: /talks/T3_IMECE_2020
 excerpt: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Transition Waves in Multi-stable Metamaterials with Space-time Modulated Potentials", at ASME IMECE 2020.'
 venue: "Virtual Conference"
 date: 2020-11-16 #"November 16 - 19, 2020"
-# location: ""
+location: "US"
 # citation: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Transition Waves in Multi-stable Metamaterials with Space-time Modulated Potentials", at ASME 2020 International Mechanical Engineering Congress and Exposition, Virtual, November 16 - 19, 2020.'
 ---
 
