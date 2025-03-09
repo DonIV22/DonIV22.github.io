@@ -8,6 +8,7 @@ excerpt: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Vibration Induced Spatial O
 venue: "Virtual Conference"
 date: 2021-11-01 #"November 1 - 4, 2021"
 location: "US"
+link: 'https://imece.secure-platform.com/a/solicitations/158/sessiongallery/9280/application/77521'
 # citation: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Vibration Induced Spatial Ordering of Periodic Patterns in Multistable Metamaterials", at ASME IMECE 2021, Virtual, November 1 - 4, 2021.'
 ---
 

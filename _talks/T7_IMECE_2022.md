@@ -8,6 +8,7 @@ excerpt: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Metamaterials With Independ
 venue: "Columbus Convention Center"
 date: 2022-10-31 #"October 31 - November 3, 2022"
 location: "Columbus, Ohio, US"
+link: 'https://imece.secure-platform.com/a/solicitations/182/sessiongallery/11757/application/99214'
 # citation: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Metamaterials With Independently Tunable Acoustic Properties", at ASME IMECE 2022, Columbus, OH, October 31 - November 3, 2022.'
 ---
 

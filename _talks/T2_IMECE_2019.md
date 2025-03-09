@@ -8,6 +8,7 @@ excerpt: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Multistable Architectures o
 venue: "Salt Palace Convention Center"
 date: 2019-11-11 #"November 11 - 14, 2019"
 location: "Salt Lake City, Utah, US"
+link: 'https://event.asme.org/Events/media/library/resources/imece/ASME-IMECE19-FinalProgram.pdf'
 # citation: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Multistable Architectures on Elastic Foundation for Tunable, Reversible Wave Propagation", at ASME 2019 International Mechanical Engineering Congress and Exposition, Salt Lake City, UT, November 11 - 14, 2019.'
 ---
 

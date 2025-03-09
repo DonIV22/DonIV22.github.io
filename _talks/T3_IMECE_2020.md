@@ -8,6 +8,7 @@ excerpt: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Transition Waves in Multi-s
 venue: "Virtual Conference"
 date: 2020-11-16 #"November 16 - 19, 2020"
 location: "US"
+link: 'https://imece.secure-platform.com/a/solicitations/121/sessiongallery/5715/application/57450'
 # citation: '<b> V. Ramakrishnan </b> and M.J.Frazier, "Transition Waves in Multi-stable Metamaterials with Space-time Modulated Potentials", at ASME 2020 International Mechanical Engineering Congress and Exposition, Virtual, November 16 - 19, 2020.'
 ---
 
