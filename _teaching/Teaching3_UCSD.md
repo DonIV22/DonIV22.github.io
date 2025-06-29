@@ -5,7 +5,7 @@ type: "Teaching Assistant"
 permalink: /teaching/Teaching3_UCSD
 venue: "Mechanical Engineering, UC San Diego"
 date: 2020-01-01
-location: "La, Jolla, California, US"
+location: "La Jolla, California, US"
 ---
 
 Served as a teaching assistant for various courses, under various professors in the Mechanical and Aerospace Engineering department at UC San Diego.

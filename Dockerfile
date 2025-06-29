@@ -1,5 +1,6 @@
 # Base image: Ruby with necessary dependencies for Jekyll
 FROM ruby:3.2
+# FROM ruby:3.4-slim
 
 # Install dependencies
 RUN apt-get update && apt-get install -y \

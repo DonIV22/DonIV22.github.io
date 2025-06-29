@@ -70,6 +70,7 @@ Mentorship
 
 Service and leadership
 ======
+* <b> Co-Organizer, <a href="https://sites.gatech.edu/2025ses/tracks/track-6/6-2/"> 6.2: Controlling Mechanical Waves with Metamaterials Symposium </a> </b>, Society of Engineering Science, Atlanta, GA, October 12 - 15, 2025
 * <b> Senator</b>, IITGN Student Senate (2016-2017)
 * <b> Class Representative</b>, B.Tech Class of 2018, Mechanical Engineering, IITGN (2015-2016)
 * <b> IITGN Tennis Team Captain</b> (2016-2017) and <b> Secretary</b> (2017-2018)
