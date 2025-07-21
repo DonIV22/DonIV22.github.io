@@ -1,13 +1,13 @@
 ---
 title: "One-way coupling of surface vibration and Kármán vortex street instability"
 collection: publications
-category: manuscripts
-permalink: /publication/C1_AIAA_Av_2025
+category: conferences
+permalink: /publications/C1_AIAA_Av_2025
 excerpt: ''
 date: 2025-07-25
 venue: 'Conference Proceeedings: AIAA AVIATION Forum'
-# paperurl: ''
+paperurl: 'https://doi.org/10.2514/6.2025-3252'
 citation: 'D. Wiberg, S. Park, <b> V. Ramakrishnan </b>, K. H. Matlack, P. J. Ansell, "One-way coupling of surface vibration and Kármán vortex street instability", <i> AIAA AVIATION Forum 2025, p. 4236018 </i>, Las Vegas, NV, July 21-25, 2025'
 ---
 
-<!-- **Abstract:**  -->
+**Abstract:** Among the wide range of passive flow control methods, the application of subsurface phononic materials (psubs) represents a promising avenue for passive aerodynamic performance improvement. The alignment of phononic materials’ unique frequency-dependent dynamic characteristics with the spectral scales of fluid instability modes has demonstrated opportunities for interaction, which can dampen or amplify energetic modes of the flow. However, the dynamic and spectral parameters driving such an interaction are still not well understood and a generalized design framework for phononic materials for passive flow control has yet to be established. The experiments performed in this study seek to provide insight into the key parameters governing effective fluid-structure interaction to inform the design of phononic materials for such a purpose. In this study, we experimentally characterized the one-way coupling between a prescribed vibrating surface and the Kármán vortex street instability, and systematically varied the frequency, bandwidth, and amplitude of surface motion to determine their influences on the resultant flow. Wind tunnel experiments conducted on the flow produced by a 2D cylinder and a shaker integrated into the nearby wall demonstrated that under certain surface vibration conditions, the vortex shedding process was biased to match in both frequency and phase to the surface oscillation. Narrowband surface excitation at frequencies near the mean vortex shedding frequency produced observable modifications to the spectral characteristics of the vortex shedding process, including a sustainment of circulation strength in the cylinder wake. Modal analysis confirmed the one-way coupling between the vibrating surface and the fluid instability; this one-way coupling organized vortex shedding process and did not superimpose additional dominant spatial modes. This system proved to be highly sensitive to surface vibration over a range of surface displacement amplitudes, suggesting a promising pathway for leveraging small-amplitude surface displacements from passive materials to successfully interact with fluid instabilities. Indeed, the identification of these vital criteria will help to lay necessary groundwork for a phononic material design methodology in the field of flow control.

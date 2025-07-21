@@ -12,4 +12,4 @@ location: "Seoul, South Korea"
 # citation: '<b> V. Ramakrishnan </b>*, A. M. Burgos, S. Park, A. J. Goza, K. H. Matlack, "Controlling Vortex characteristics in lifting bodies using Diatomic Phononic Crystals", <i> PHONONICS 2025, p. 0268 </i>, Seoul, South Korea, June 9-13, 2025.'
 ---
 
-<!-- **Abstract:**  -->
+**Abstract:** 

@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Vinod-Ramakrishnan-3"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57219606437"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -82,6 +82,12 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+
+# talk_category:
+#   seminars:
+#     title: 'Research Seminars'    
+#   conferences:
+#     title: 'Conference Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

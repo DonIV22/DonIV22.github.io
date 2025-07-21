@@ -2,7 +2,7 @@
 title: "Pattern Formation in Robotic Mechanical Metamaterial"
 collection: publications
 category: manuscripts
-permalink: /publication/P5_arXiV_2025
+permalink: /publications/P5_arXiV_2025
 excerpt: 'This paper is currently under review.'
 date: 2025-06-21
 venue: 'arXiV'
