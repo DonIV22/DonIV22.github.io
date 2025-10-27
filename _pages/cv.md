@@ -65,6 +65,7 @@ Honors & Awards
 Mentorship
 ======
 * <b> Co-advising a graduate student </b> with my Postdoctoral advisor, UIUC (2024 - <i>present</i>)
+* <b> Mentoring an undergraduate student </b>, UIUC (2025 - <i>present</i>)
 * <b> Graduate Mentor</b>, Jacobs Undergraduate Mentorship Program, UC San Diego (2021-2022)
 * <b> Undergraduate Mentor</b>, Peer Assisted Learning Program, IITGN (2015-2016)
 
