@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publications/C1_AIAA_Av_2025
 excerpt: ''
-date: 2025-07-25
+date: 2025-07-16
 venue: 'Conference Proceeedings: AIAA AVIATION Forum'
 paperurl: 'https://doi.org/10.2514/6.2025-3252'
 citation: 'D. Wiberg, S. Park, <b> V. Ramakrishnan </b>, K. H. Matlack, P. J. Ansell, "One-way coupling of surface vibration and Kármán vortex street instability", <i> AIAA AVIATION Forum 2025, p. 4236018 </i>, Las Vegas, NV, July 21-25, 2025'

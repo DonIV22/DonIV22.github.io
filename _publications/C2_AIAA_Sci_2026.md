@@ -4,9 +4,9 @@ collection: publications
 category: conferences
 permalink: /publications/C2_AIAA_Sci_2026
 excerpt: ''
-date: 2026-01-01
+date: 2026-01-08
 venue: 'Conference Proceeedings: AIAA SciTech Forum'
-# paperurl: ''
+paperurl: 'https://doi.org/10.2514/6.2026-2621'
 citation: 'C. T. Lin, <b> V. Ramakrishnan </b>, A. J. Goza, K. H. Matlack, H. J. Bae, "Dynamic passive control of turbulent drag via subsurface resonant phononic metamaterial", <i> AIAA SciTech Forum 2026, p. 4354559 </i>, Orlando, FL, January 12-16, 2026'
 ---
 

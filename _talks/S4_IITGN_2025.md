@@ -10,4 +10,4 @@ date: 2025-01-06
 location: "Gandhinagar, Gujarat, India"
 ---
 
-**Citation: V. Ramakrishnan**, "Phononic Materials – An avenue for Passive Flow Control, IIT Gandhinagar, January 6, 2025.
+**Citation: V. Ramakrishnan**, "Phononic Materials – An avenue for Passive Flow Control", IIT Gandhinagar, January 6, 2025.
