@@ -24,11 +24,11 @@ author:
   avatar           : "Vinod_Image.jpg"
   name             : "Vinod Ramakrishnan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
-  location         : "Urbana, IL, USA"
-  employer         : "University of Illinois at Urbana-Champaign"
+  bio              : "Assistant Professor"
+  location         : "Gandhinagar, Gujarat, INDIA"
+  employer         : "IIT Gandhinagar"
   uri              : # URL
-  email            : "vinodr@illinois.edu" 
+  email            : "vinod.ramakrishnan@iitgn.ac.in"
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/ramakrishnan_v_1.html"
