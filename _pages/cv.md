@@ -68,9 +68,9 @@ Mentorship
 
 Service and leadership
 ======
-* <b>Co-Organizer, <a href="https://web.cvent.com/event/a944561f-31fa-427e-ba32-688605d1a0c8/websitePage:44e88bac-1d06-400f-97e8-db645e83d971"> 4.4: Controlling Mechanical Waves with Metamaterials Symposium<a></b>, Society of Engineering Science, Purdue University, West Lafayette, IN, October 11 - 14, 2026
-* <b>Organizing team, <a href="https://fmi2025.grainger.illinois.edu/"> 2026 Workshop on Fluid Metamaterial Interaction<a></b>, Wright State University, Dayton, OH, April 14 - 16, 2026
-* <b>Co-Organizer, <a href="https://sites.gatech.edu/2025ses/tracks/track-6/6-2/"> 6.2: Controlling Mechanical Waves with Metamaterials Symposium<a></b>, Society of Engineering Science, Atlanta, GA, October 12 - 15, 2025
+* <b>Co-Organizer, <a href="https://web.cvent.com/event/a944561f-31fa-427e-ba32-688605d1a0c8/websitePage:44e88bac-1d06-400f-97e8-db645e83d971"> 4.4: Controlling Mechanical Waves with Metamaterials Symposium</a></b>, Society of Engineering Science, Purdue University, West Lafayette, IN, October 11 - 14, 2026
+* <b>Organizing team, <a href="https://fmi2025.grainger.illinois.edu/"> 2026 Workshop on Fluid Metamaterial Interaction</a></b>, Wright State University, Dayton, OH, April 14 - 16, 2026
+* <b>Co-Organizer, <a href="https://sites.gatech.edu/2025ses/tracks/track-6/6-2/"> 6.2: Controlling Mechanical Waves with Metamaterials Symposium</a></b>, Society of Engineering Science, Atlanta, GA, October 12 - 15, 2025
 * <b>Senator</b>, IITGN Student Senate (2016-2017)
 * <b>Class Representative</b>, B.Tech Class of 2018, Mechanical Engineering, IITGN (2015-2016)
 * <b>IITGN Tennis Team Captain</b> (2016-2017) and <b>Secretary</b> (2017-2018)
